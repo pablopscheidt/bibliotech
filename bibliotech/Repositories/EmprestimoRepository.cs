@@ -16,7 +16,10 @@ namespace bibliotech.Repositories
 
         public async Task<IEnumerable<Emprestimo>> GetAll()
         {
-            return await _context.Emprestimos.ToListAsync();
+            return await _context.Emprestimos
+                .Include(e => e.Livro)
+                .Include(e => e.Usuario)
+                .ToListAsync();
         }
 
         public async Task<Emprestimo> GetById(int id)

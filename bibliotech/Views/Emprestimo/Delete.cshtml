@@ -1,45 +1,28 @@
-﻿@model bibliotech.Models.Emprestimo  // Certifique-se de ajustar o modelo de acordo com sua aplicação
+﻿@model bibliotech.Models.Emprestimo
 
-@{
-    ViewData["Title"] = "Excluir Empréstimo";
-}
+<h2>Confirmar Exclusão</h2>
 
-<h1>@ViewData["Title"]</h1>
+<p>Tem certeza que deseja excluir o empréstimo?</p>
 
 <div>
-    <h4>Você tem certeza que deseja excluir este empréstimo?</h4>
+    <h4>Detalhes do Empréstimo</h4>
     <hr />
-    <dl class="row">
-        <dt class="col-sm-2">ID:</dt>
-        <dd class="col-sm-10">@Model.ID</dd>
+    <dl class="dl-horizontal">
+        <dt>Livro</dt>
+        <dd>@(Model.Livro != null ? Model.Livro.Titulo : "Livro não encontrado")</dd>
 
-        <dt class="col-sm-2">Livro:</dt>
-        <dd class="col-sm-10">@Model.Livro.Titulo</dd>
+        <dt>Usuário</dt>
+        <dd>@(Model.Usuario != null ? Model.Usuario.Nome : "Usuário não encontrado")</dd>
 
-        <dt class="col-sm-2">Usuário:</dt>
-        <dd class="col-sm-10">@Model.Usuario.Nome</dd>
+        <dt>Data de Empréstimo</dt>
+        <dd>@Model.DataEmprestimo.ToString("dd/MM/yyyy")</dd>
 
-        <dt class="col-sm-2">Data Empréstimo:</dt>
-        <dd class="col-sm-10">@Model.DataEmprestimo.ToShortDateString()</dd>
-
-        <dt class="col-sm-2">Data Devolução:</dt>
-        <dd class="col-sm-10">
-            @if (Model.DataDevolucao.HasValue)
-            {
-                @Model.DataDevolucao.Value.ToShortDateString()
-            }
-            else
-            {
-                <text>Não devolvido</text>
-            }
-        </dd>
+        <dt>Data de Devolução</dt>
+        <dd>@(Model.DataDevolucao.HasValue ? Model.DataDevolucao.Value.ToString("dd/MM/yyyy") : "Não devolvido")</dd>
     </dl>
 
-    <form asp-action="DeleteConfirmed" method="post">
-        <input type="hidden" asp-for="ID" />
-        <div class="form-group">
-            <input type="submit" value="Confirmar Exclusão" class="btn btn-danger" />
-            <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
-        </div>
+    <form asp-action="DeleteConfirmed" asp-route-id="@Model.ID" method="post">
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
     </form>
 </div>

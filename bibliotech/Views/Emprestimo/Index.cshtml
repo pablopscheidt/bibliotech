@@ -6,35 +6,37 @@
 
 <h1>Lista de Empréstimos</h1>
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">Novo Empréstimo</a>
-</p>
-
 <table class="table">
     <thead>
         <tr>
-            <th>ID</th>
-            <th>Usuário</th>
             <th>Livro</th>
-            <th>Data Empréstimo</th>
-            <th>Data Devolução</th>
-            <th>Ações</th>
+            <th>Usuário</th>
+            <th>Data de Empréstimo</th>
+            <th>Data de Devolução</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@(item.Livro != null ? item.Livro.Titulo : "Livro não encontrado")</td>
+                    <td>@(item.Usuario != null ? item.Usuario.Nome : "Usuário não encontrado")</td>
+                    <td>@item.DataEmprestimo.ToString("dd/MM/yyyy")</td>
+                    <td>@(item.DataDevolucao.HasValue ? item.DataDevolucao.Value.ToString("dd/MM/yyyy") : "Não devolvido")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-primary">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
         {
             <tr>
-                <td>@item.ID</td>
-                <td>@item.Usuario.Nome</td>
-                <td>@item.Livro.Titulo</td>
-                <td>@item.DataEmprestimo.ToShortDateString()</td>
-                <td>@(item.DataDevolucao.HasValue ? item.DataDevolucao.Value.ToShortDateString() : "Não devolvido")</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-primary">Editar</a>
-                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-sm btn-info">Detalhes</a>
-                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger">Excluir</a>
-                </td>
+                <td colspan="5">Nenhum empréstimo encontrado.</td>
             </tr>
         }
     </tbody>
