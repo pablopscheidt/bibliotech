@@ -1,6 +1,7 @@
 ﻿using bibliotech.Interfaces;
 using bibliotech.Models;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace bibliotech.Controllers
 {
@@ -29,6 +30,8 @@ namespace bibliotech.Controllers
         {
             if (ModelState.IsValid)
             {
+                usuario.DataRegistro = DateTime.UtcNow;
+
                 await _usuarioService.Add(usuario);
                 return RedirectToAction(nameof(Index));
             }
@@ -55,6 +58,8 @@ namespace bibliotech.Controllers
 
             if (ModelState.IsValid)
             {
+                usuario.DataRegistro = DateTime.UtcNow;
+
                 await _usuarioService.Update(usuario);
                 return RedirectToAction(nameof(Index));
             }
@@ -71,7 +76,7 @@ namespace bibliotech.Controllers
             return View(usuario);
         }
 
-        [HttpPost, ActionName("Delete")]
+        [HttpPost, ActionName("DeleteConfirmed")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _usuarioService.Delete(id);

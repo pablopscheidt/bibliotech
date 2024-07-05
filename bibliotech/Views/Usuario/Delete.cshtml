@@ -1,0 +1,31 @@
+﻿@model bibliotech.Models.Usuario
+
+@{
+    ViewData["Title"] = "Excluir Usuário";
+}
+
+<h1>Excluir Usuário</h1>
+
+<div>
+    <h4>Tem certeza que deseja excluir este usuário?</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">ID:</dt>
+        <dd class="col-sm-10">@Model.ID</dd>
+
+        <dt class="col-sm-2">Nome:</dt>
+        <dd class="col-sm-10">@Model.Nome</dd>
+
+        <dt class="col-sm-2">Email:</dt>
+        <dd class="col-sm-10">@Model.Email</dd>
+
+        <dt class="col-sm-2">Data de Registro:</dt>
+        <dd class="col-sm-10">@Model.DataRegistro</dd>
+    </dl>
+
+    <form asp-action="DeleteConfirmed">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

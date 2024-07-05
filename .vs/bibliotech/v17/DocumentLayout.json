@@ -3,126 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Magazord\\Desktop\\bibliotech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\migrations\\20240629023225_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\migrations\\20240629023225_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\services\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\services\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\iemprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\iemprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\views\\livro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\views\\livro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\views\\livro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\views\\livro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\views\\livro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\views\\livro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -131,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\interfaces\\iemprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\interfaces\\iemprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\bibliotech.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\bibliotech.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|c:\\users\\magazord\\desktop\\bibliotech\\bibliotech\\views\\emprestimo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{970E4DA7-15F2-4D4C-99B8-F7FF36B9D3C9}|bibliotech\\bibliotech.csproj|solutionrelative:bibliotech\\views\\emprestimo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,461 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240629023225_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Migrations\\20240629023225_InitialCreate.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Migrations\\20240629023225_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Migrations\\20240629023225_InitialCreate.cs",
-              "RelativeToolTip": "bibliotech\\Migrations\\20240629023225_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:32:25.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\appsettings.json",
-              "RelativeDocumentMoniker": "bibliotech\\appsettings.json",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\appsettings.json",
-              "RelativeToolTip": "bibliotech\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-29T02:01:22.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IEmprestimoService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\IEmprestimoService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoService.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\IEmprestimoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:52:22.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ILivroService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ILivroService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\ILivroService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ILivroService.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\ILivroService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:51:59.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\IUsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:46:39.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:48:55.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ILivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ILivroRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\ILivroRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ILivroRepository.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\ILivroRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:47:04.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Program.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Program.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Program.cs",
-              "RelativeToolTip": "bibliotech\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:35:00.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LivroService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\LivroService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Services\\LivroService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\LivroService.cs",
-              "RelativeToolTip": "bibliotech\\Services\\LivroService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:57:21.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Index.cshtml",
-              "RelativeDocumentMoniker": "bibliotech\\Views\\Livro\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Index.cshtml",
-              "RelativeToolTip": "bibliotech\\Views\\Livro\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T01:14:42.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "bibliotech\\Services\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:58:16.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "bibliotech\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:56:31.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "bibliotech\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "bibliotech\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T01:56:54.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LivroController.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\LivroController.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Controllers\\LivroController.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\LivroController.cs",
-              "RelativeToolTip": "bibliotech\\Controllers\\LivroController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:07:07.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmprestimoService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\EmprestimoService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Services\\EmprestimoService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\EmprestimoService.cs",
-              "RelativeToolTip": "bibliotech\\Services\\EmprestimoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:58:46.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoriaService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\CategoriaService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Services\\CategoriaService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Services\\CategoriaService.cs",
-              "RelativeToolTip": "bibliotech\\Services\\CategoriaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:59:28.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IEmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\IEmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoRepository.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\IEmprestimoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:49:48.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICategoriaService.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ICategoriaService.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\ICategoriaService.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ICategoriaService.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\ICategoriaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:52:40.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeToolTip": "bibliotech\\Interfaces\\ICategoriaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:51:07.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BibliotecaContext.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Data\\BibliotecaContext.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Data\\BibliotecaContext.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Data\\BibliotecaContext.cs",
-              "RelativeToolTip": "bibliotech\\Data\\BibliotecaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:34:01.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Repositories\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\CategoriaRepository.cs",
-              "RelativeToolTip": "bibliotech\\Repositories\\CategoriaRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:51:23.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Usuario.cs",
-              "RelativeToolTip": "bibliotech\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:29:54.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Livro.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Livro.cs",
-              "RelativeToolTip": "bibliotech\\Models\\Livro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:28:31.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Emprestimo.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Models\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Emprestimo.cs",
-              "RelativeToolTip": "bibliotech\\Models\\Emprestimo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:30:23.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Models\\Categoria.cs",
-              "RelativeToolTip": "bibliotech\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:30:44.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\LivroRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Repositories\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\LivroRepository.cs",
-              "RelativeToolTip": "bibliotech\\Repositories\\LivroRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwDEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:38:45.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "bibliotech\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:10:04.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "EmprestimoController.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\EmprestimoController.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Controllers\\EmprestimoController.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\EmprestimoController.cs",
-              "RelativeToolTip": "bibliotech\\Controllers\\EmprestimoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:12:11.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "bibliotech\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAmwBAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:12:58.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Create.cshtml",
-              "RelativeDocumentMoniker": "bibliotech\\Views\\Livro\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Create.cshtml",
-              "RelativeToolTip": "bibliotech\\Views\\Livro\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T01:19:47.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Edit.cshtml",
-              "RelativeDocumentMoniker": "bibliotech\\Views\\Livro\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Edit.cshtml",
-              "RelativeToolTip": "bibliotech\\Views\\Livro\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T01:25:14.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Delete.cshtml",
-              "RelativeDocumentMoniker": "bibliotech\\Views\\Livro\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Livro\\Delete.cshtml",
-              "RelativeToolTip": "bibliotech\\Views\\Livro\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T01:25:53.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "EmprestimoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\EmprestimoRepository.cs",
               "RelativeDocumentMoniker": "bibliotech\\Repositories\\EmprestimoRepository.cs",
               "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\EmprestimoRepository.cs",
               "RelativeToolTip": "bibliotech\\Repositories\\EmprestimoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:50:06.797Z",
+              "WhenOpened": "2024-07-05T03:07:33.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "bibliotech\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "bibliotech\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:49:17.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "bibliotech",
-              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\bibliotech.csproj",
-              "RelativeDocumentMoniker": "bibliotech\\bibliotech.csproj",
-              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\bibliotech.csproj",
-              "RelativeToolTip": "bibliotech\\bibliotech.csproj",
+              "DocumentIndex": 3,
+              "Title": "IEmprestimoService.cs",
+              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoService.cs",
+              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\IEmprestimoService.cs",
+              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoService.cs",
+              "RelativeToolTip": "bibliotech\\Interfaces\\IEmprestimoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-29T00:33:07.326Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:07:01.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmprestimoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoRepository.cs",
+              "RelativeDocumentMoniker": "bibliotech\\Interfaces\\IEmprestimoRepository.cs",
+              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Interfaces\\IEmprestimoRepository.cs",
+              "RelativeToolTip": "bibliotech\\Interfaces\\IEmprestimoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:05:43.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "bibliotech\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "bibliotech\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:53:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "bibliotech\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "bibliotech\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAG8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:39:08.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Emprestimo\\Create.cshtml",
+              "RelativeDocumentMoniker": "bibliotech\\Views\\Emprestimo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Magazord\\Desktop\\bibliotech\\bibliotech\\Views\\Emprestimo\\Create.cshtml",
+              "RelativeToolTip": "bibliotech\\Views\\Emprestimo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:49:22.263Z",
               "EditorCaption": ""
             }
           ]

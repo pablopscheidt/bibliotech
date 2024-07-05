@@ -102,3 +102,4 @@ C:\Users\Magazord\Desktop\bibliotech\bibliotech\obj\Debug\net8.0\refint\bibliote
 C:\Users\Magazord\Desktop\bibliotech\bibliotech\obj\Debug\net8.0\bibliotech.pdb
 C:\Users\Magazord\Desktop\bibliotech\bibliotech\obj\Debug\net8.0\bibliotech.genruntimeconfig.cache
 C:\Users\Magazord\Desktop\bibliotech\bibliotech\obj\Debug\net8.0\ref\bibliotech.dll
+C:\Users\Magazord\Desktop\bibliotech\bibliotech\obj\Debug\net8.0\bibliotech.sourcelink.json

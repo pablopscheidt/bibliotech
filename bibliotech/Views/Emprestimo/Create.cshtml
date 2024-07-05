@@ -1,0 +1,41 @@
+﻿@model bibliotech.Models.Emprestimo
+
+@{
+    ViewData["Title"] = "Novo Empréstimo";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="LivroID">Livro</label>
+        @Html.DropDownList("LivroID", ViewBag.Livros as SelectList, "Selecione um livro", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.LivroID, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UsuarioID">Usuário</label>
+        @Html.DropDownList("UsuarioID", ViewBag.Usuarios as SelectList, "Selecione um usuário", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.UsuarioID, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DataEmprestimo">Data de Empréstimo</label>
+        <input asp-for="DataEmprestimo" class="form-control" />
+        @Html.ValidationMessageFor(model => model.DataEmprestimo, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DataDevolucao">Data de Devolução</label>
+        <input asp-for="DataDevolucao" class="form-control" />
+        @Html.ValidationMessageFor(model => model.DataDevolucao, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

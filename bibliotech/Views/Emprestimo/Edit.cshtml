@@ -1,0 +1,50 @@
+﻿@model bibliotech.Models.Emprestimo  // Certifique-se de ajustar o modelo de acordo com sua aplicação
+
+@{
+    ViewData["Title"] = "Editar Empréstimo";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="ID" />
+
+            <div class="form-group">
+                <label asp-for="LivroID" class="control-label">Livro</label>
+                <select asp-for="LivroID" asp-items="@ViewBag.Livros" class="form-control"></select>
+                <span asp-validation-for="LivroID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="UsuarioID" class="control-label">Usuário</label>
+                <select asp-for="UsuarioID" asp-items="@ViewBag.Usuarios" class="form-control"></select>
+                <span asp-validation-for="UsuarioID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DataEmprestimo" class="control-label">Data Empréstimo</label>
+                <input asp-for="DataEmprestimo" class="form-control" />
+                <span asp-validation-for="DataEmprestimo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DataDevolucao" class="control-label">Data Devolução</label>
+                <input asp-for="DataDevolucao" class="form-control" />
+                <span asp-validation-for="DataDevolucao" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

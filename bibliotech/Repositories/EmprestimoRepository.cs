@@ -1,6 +1,6 @@
-﻿using bibliotech.Data;
-using bibliotech.Interfaces;
+﻿using bibliotech.Interfaces;
 using bibliotech.Models;
+using bibliotech.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace bibliotech.Repositories
@@ -16,12 +16,12 @@ namespace bibliotech.Repositories
 
         public async Task<IEnumerable<Emprestimo>> GetAll()
         {
-            return await _context.Emprestimos.Include(e => e.Livro).Include(e => e.Usuario).ToListAsync();
+            return await _context.Emprestimos.ToListAsync();
         }
 
         public async Task<Emprestimo> GetById(int id)
         {
-            return await _context.Emprestimos.Include(e => e.Livro).Include(e => e.Usuario).FirstOrDefaultAsync(e => e.ID == id);
+            return await _context.Emprestimos.FindAsync(id);
         }
 
         public async Task Add(Emprestimo emprestimo)
